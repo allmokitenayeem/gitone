@@ -1,9 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 four44
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> development
 four4
 =======
 four44
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> development
+=======
 >>>>>>> development
